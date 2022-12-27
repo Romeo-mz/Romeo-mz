@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
