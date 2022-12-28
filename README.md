@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://romeo-mz.github.io/](https://romeo-mz.github.io/)
+- 👨‍💻 All of my projects are available at [https://www.romeomartinez.fr/](https://www.romeomartinez.fr/)
 
 - 📫 How to reach me **romeo.martinez@orange.fr**
 
