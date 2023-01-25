@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sutom Solver wich is an algorithm to solve the french version of wordle**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://www.romeomartinez.fr/](https://www.romeomartinez.fr/)
 
