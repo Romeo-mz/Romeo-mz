@@ -7,4 +7,4 @@ require (
 	github.com/freeCodeCamp/freeCodeCamp v0.0.0-20230203175846-d99d29ad2012 //indirect
 
  )
-//Thx to KasperiP who find this exploit, I just reverse engineer what he does
+
