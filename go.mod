@@ -7,5 +7,6 @@ require (
 	github.com/freeCodeCamp/freeCodeCamp v0.0.0-20230204075012-c1c1639d19c0 //indirect
 	github.com/vuejs/vue v0.0.0-20230112144700-d52fbff7a77d //indirect
 	github.com/jtleek/datasharing v0.0.0-20161108194457-df97230f037c //indirect
+	github.com/dginhac/esirem-itc v0.0.0-20230111141205-3139c30ef6f2 //indirect
  )
 
