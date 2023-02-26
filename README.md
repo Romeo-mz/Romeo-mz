@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.romeomartinez.fr/](https://www.romeomartinez.fr/)
 
-- 📫 How to reach me **contact@romeomartinez.fr**
+- 📫 How to reach me **romeo.martinez@orange.fr**
 
 - 📄 Know about my experiences [https://romeo-mz.github.io/files/Romeo-Martinez-CV.pdf](https://romeo-mz.github.io/files/Romeo-Martinez-CV.pdf)
 
