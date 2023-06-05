@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Auto report CR**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Architecture**
 
 - 👨‍💻 All of my projects are available at [https://www.romeomartinez.fr/](https://www.romeomartinez.fr/)
 
