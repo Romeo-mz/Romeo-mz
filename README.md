@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F71381&width=435&lines=Rom%C3%A9o+Martinez+;Student+in+computer+science;AI+%7C+Computer+%7C+Website)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Auto report CR**
+- 🔭 I’m currently working on **API OGE**
 
 - 🌱 I’m currently learning **ML**
 
