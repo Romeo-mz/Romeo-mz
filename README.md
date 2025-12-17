@@ -1,18 +1,42 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F71381&width=435&lines=Rom%C3%A9o+Martinez+;Student+in+computer+science;AI+%7C+Computer+%7C+Website)](https://git.io/typing-svg)
-
-- 🔭 I’m currently working on **API OGE**
-
-- 🌱 I’m currently learning **ML**
-
-- 👨‍💻 All of my projects are available at [https://www.romeomartinez.fr/](https://www.romeomartinez.fr/)
-
-- 📫 How to reach me **romeo.martinez@orange.fr**
-
-<p align="left">
+<p align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=usr%2Fbin%2Fromeo+--role+devops-engineer;initializing+cluster+deployment...;managed_services%3A+active;target%3A+S3+Ninja+Optimization" />
+</a>
 </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ I often use
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romeo-mz&count_private=true&show_icons=true&locale=en&layout=compact&hide=makefile" alt="romeo-mz" /></p> 
-<a href="https://wakatime.com/@f62c07cd-f002-462d-a47f-97251d0a0633"><img src="https://wakatime.com/badge/user/f62c07cd-f002-462d-a47f-97251d0a0633.svg" alt="Total time coded since Jan 7 2023" /></a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=ansible,gitlab,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/K9s-33FF00?style=for-the-badge&logo=kubernetes&logoColor=black" height="50px" valign="top" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,dotnet,java&theme=dark" />
+</div>
+
+<br>
+
+### 🔭 Current Focus: S3 Ninja
+
+<a href="https://github.com/romeo-mz/S3-Ninja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romeo-mz&repo=s3ninja&theme=radical&border_radius=10" />
+</a>
+
+<br>
+
+### 🌩️ Weather
+
+<code>📍 Grenoble, France</code>
+
+<br>
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-romeomartinez.fr-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://romeo-mz.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romeo_Martinez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/romeo-mrtz)
+
+</div>
