@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/K9s-33FF00?style=for-the-badge&logo=kubernetes&logoColor=black" height="50px" valign="top" />
   <br>
   <img src="https://skillicons.dev/icons?i=python,dotnet,java&theme=dark" />
+<br>
+  <img src="https://skillicons.dev/icons?i=ableton,photoshop&theme=dark" />
 </div>
 
 <br>
@@ -36,7 +38,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-romeomartinez.fr-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://romeo-mz.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romeo_Martinez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/romeo-mrtz)
+[![Website](https://skillicons.dev/icons?i=html)](https://romeo-mz.github.io)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://fr.linkedin.com/in/romeo-mrtz)
 
 </div>
