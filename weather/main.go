@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-    resp, err := http.Get("https://wttr.in/Grenoble?format=%l+%c+%t+%w")
+    resp, err := http.Get("https://wttr.in/Grenoble?format=Weather:+%l+%C+%t+%h")
     if err != nil {
         fmt.Println("erreur:", err)
         os.Exit(1)
