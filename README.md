@@ -32,8 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Grenoble ☀️   +11°C ↑6km/h</code>
-
+<code>Weather: Grenoble Clear +2°C 100%</code>
 <!-- weather-end -->
 
 <br>
