@@ -30,7 +30,11 @@
 
 ### 🌩️ Weather
 
-<code>📍 Grenoble, France</code>
+<!-- weather-start -->
+
+<code>Grenoble ☀️   +11°C ↑6km/h</code>
+
+<!-- weather-end -->
 
 <br>
 
