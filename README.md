@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Partiellement couvert +12°C</code>
+<code>Weather: Grenoble Pluie, Brumeux +8°C</code>
 <!-- weather-end -->
 
 <br>
