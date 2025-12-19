@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Overcast +13°C 54%</code>
+<code>Weather: Grenoble Clear +12°C 58%</code>
 <!-- weather-end -->
 
 <br>
