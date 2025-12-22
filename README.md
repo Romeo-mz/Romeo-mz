@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie légère +9°C</code>
+<code>Weather: Grenoble Brumeux +3°C</code>
 <!-- weather-end -->
 
 <br>
