@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Couvert +6°C</code>
+<code>Weather: Grenoble Couvert +4°C</code>
 <!-- weather-end -->
 
 <br>
