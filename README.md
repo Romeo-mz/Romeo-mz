@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Brouillard, Brumeux +6°C</code>
+<code>Weather: Grenoble Couvert +39°F</code>
 <!-- weather-end -->
 
 <br>
