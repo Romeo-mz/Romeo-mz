@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Brouillard +40°F</code>
+<code>Weather: Grenoble Couvert +5°C</code>
 <!-- weather-end -->
 
 <br>
