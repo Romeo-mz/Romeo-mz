@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Couvert +3°C</code>
+<code>Weather: Grenoble Chutes de neige légères +36°F</code>
 <!-- weather-end -->
 
 <br>
