@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Ensoleillé +4°C</code>
+<code>Weather: Grenoble Brouillard givrant +1°C</code>
 <!-- weather-end -->
 
 <br>
