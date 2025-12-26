@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Partiellement couvert -1°C</code>
+<code>Weather: Grenoble Plaques de brouillard +34°F</code>
 <!-- weather-end -->
 
 <br>
