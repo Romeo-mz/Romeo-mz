@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Brouillard givrant +33°F</code>
+<code>Weather: Grenoble Brouillard givrant -2°C</code>
 <!-- weather-end -->
 
 <br>
