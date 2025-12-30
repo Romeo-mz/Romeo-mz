@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Brumeux -2°C</code>
+<code>Weather: Grenoble Brumeux +29°F</code>
 <!-- weather-end -->
 
 <br>
