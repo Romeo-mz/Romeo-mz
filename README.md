@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie verglaçante légère -3°C</code>
+<code>Weather: Grenoble Partiellement couvert +25°F</code>
 <!-- weather-end -->
 
 <br>
