@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Ensoleillé +28°F</code>
+<code>Weather: Grenoble Temps clair -6°C</code>
 <!-- weather-end -->
 
 <br>
