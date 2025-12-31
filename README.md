@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Partiellement couvert -4°C</code>
+<code>Weather: Grenoble Ensoleillé -1°C</code>
 <!-- weather-end -->
 
 <br>
