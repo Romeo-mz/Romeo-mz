@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Brumeux +29°F</code>
+<code>Weather: Grenoble Pluie verglaçante légère -3°C</code>
 <!-- weather-end -->
 
 <br>
