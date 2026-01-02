@@ -22,7 +22,7 @@
 
 ### 🔭 Current Focus: S3 Ninja
 
-<a href="https://github.com/romeo-mz/S3-Ninja">
+<a href="https://github.com/romeo-mz/s3ninja">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romeo-mz&repo=s3ninja&theme=radical&border_radius=10" />
 </a>
 
