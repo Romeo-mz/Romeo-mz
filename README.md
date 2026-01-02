@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Temps clair +25°F</code>
+<code>Weather: Grenoble Temps clair -4°C</code>
 <!-- weather-end -->
 
 <br>
