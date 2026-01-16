@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=usr%2Fbin%2Fromeo+--role+devops-engineer;initializing+cluster+deployment...;managed_services%3A+active;target%3A+S3+Ninja+Optimization" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=usr%2Fbin%2Fromeo+--role+devops-engineer;initializing+cluster+deployment...;managed_services%3A+active;target%3A+Want+to+dev" />
 </a>
 </p>
 ---
