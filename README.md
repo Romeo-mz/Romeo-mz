@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Ensoleillé +31°F</code>
+<code>Weather: Grenoble Brumeux +3°C</code>
 <!-- weather-end -->
 
 <br>
