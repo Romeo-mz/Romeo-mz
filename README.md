@@ -43,5 +43,6 @@
 
 [![Website](https://skillicons.dev/icons?i=html)](https://romeo-mz.github.io)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://fr.linkedin.com/in/romeo-mrtz)
+[![Blog](https://skillicons.dev/icons?i=ableton)](https://romeo-mz.github.io/blog/)
 
 </div>
