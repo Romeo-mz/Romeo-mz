@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Brumeux +3°C</code>
+<code>Weather: Grenoble Plaques de brouillard -1°C</code>
 <!-- weather-end -->
 
 <br>
