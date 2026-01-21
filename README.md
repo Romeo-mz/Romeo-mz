@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Plaques de brouillard -1°C</code>
+<code>Weather: Grenoble Ensoleillé +39°F</code>
 <!-- weather-end -->
 
 <br>
