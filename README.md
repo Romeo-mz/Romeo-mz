@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie, Neige +4°C</code>
+<code>Weather: Grenoble Brouillard +36°F</code>
 <!-- weather-end -->
 
 <br>
