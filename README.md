@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Brouillard +36°F</code>
+<code>Weather: Grenoble Pluie légère, Pluie, Brumeux +4°C</code>
 <!-- weather-end -->
 
 <br>
