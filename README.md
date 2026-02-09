@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Couvert +45°F</code>
+<code>Weather: Grenoble Ensoleillé +6°C</code>
 <!-- weather-end -->
 
 <br>
