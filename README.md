@@ -32,7 +32,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie légère +7°C</code>
+<code></code>
 <!-- weather-end -->
 
 <br>
