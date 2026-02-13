@@ -21,12 +21,7 @@
 <br>
 
 ### 🔭 Current Focus: S3 Ninja
-
-<a href="https://github.com/romeo-mz/s3ninja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romeo-mz&repo=s3ninja&theme=radical&border_radius=10" />
-</a>
-
-<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Romeo-mz&repo=Romeo-mz/s3ninja&description_lines_count=1&theme=transparent)](https://github.com/Romeo-mz/s3ninja)
 
 ### 🌩️ Weather
 
