@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Ensoleillé +6°C</code>
+<code></code>
 <!-- weather-end -->
 
 <br>
