@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code></code>
+<code>Weather: Grenoble Bruine légère, Averse de pluie +5°C</code>
 <!-- weather-end -->
 
 <br>
