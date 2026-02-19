@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Couvert +5°C</code>
+<code>Weather: Grenoble Pluie +6°C</code>
 <!-- weather-end -->
 
 <br>
