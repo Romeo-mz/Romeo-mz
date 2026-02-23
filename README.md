@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie légère +6°C</code>
+<code>Weather: Grenoble Partiellement couvert +9°C</code>
 <!-- weather-end -->
 
 <br>
