@@ -21,7 +21,8 @@
 <br>
 
 ### 🔭 Current Focus: LokAI
-Personal project to retrieve and use the best local AI model based on your local computer
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Romeo-mz&repo=Romeo-mz/lokai&description_lines_count=1&theme=transparent)](https://github.com/Romeo-mz/lokai)
+
 ### 🌩️ Weather
 
 <!-- weather-start -->
