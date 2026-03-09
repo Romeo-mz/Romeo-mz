@@ -20,9 +20,8 @@
 
 <br>
 
-### 🔭 Current Focus: S3 Ninja
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Romeo-mz&repo=Romeo-mz/s3ninja&description_lines_count=1&theme=transparent)](https://github.com/Romeo-mz/s3ninja)
-
+### 🔭 Current Focus: LokAI
+Personal project to retrieve and use the best local AI model based on your local computer
 ### 🌩️ Weather
 
 <!-- weather-start -->
