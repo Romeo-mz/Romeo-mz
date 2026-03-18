@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Ensoleillé +48°F</code>
+<code>Get "http://wttr.in/Grenoble?format=Weather:+%l+%C+%t&lang=fr": context deadline exceeded (Client.Timeout exceeded while awaiting headers)</code>
 <!-- weather-end -->
 
 <br>
