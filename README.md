@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Pluie légère, Averse de grêlons/flocons de neige +3°C</code>
+<code>Weather: grenoble Couvert +5°C</code>
 <!-- weather-end -->
 
 <br>
