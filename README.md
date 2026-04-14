@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Pluie légère, Brumeux +47°F</code>
+<code>Weather: grenoble Couvert +49°F</code>
 <!-- weather-end -->
 
 <br>
