@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Sunny +58°F</code>
+<code>Weather: grenoble Sunny +56°F</code>
 <!-- weather-end -->
 
 <br>
