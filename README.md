@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Light rain shower +67°F</code>
+<code>Weather: grenoble Overcast +63°F</code>
 <!-- weather-end -->
 
 <br>
