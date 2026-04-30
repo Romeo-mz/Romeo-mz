@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Overcast +63°F</code>
+<code>Weather: grenoble Patchy rain nearby +65°F</code>
 <!-- weather-end -->
 
 <br>
