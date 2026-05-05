@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Light rain, rain shower +58°F</code>
+<code>Weather: grenoble Light rain, rain +58°F</code>
 <!-- weather-end -->
 
 <br>
