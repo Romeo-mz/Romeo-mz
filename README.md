@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Heavy rain +54°F</code>
+<code>Weather: grenoble Patchy rain nearby +61°F</code>
 <!-- weather-end -->
 
 <br>
