@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Rain with thunderstorm +60°F</code>
+<code>Weather: grenoble Partly cloudy +56°F</code>
 <!-- weather-end -->
 
 <br>
