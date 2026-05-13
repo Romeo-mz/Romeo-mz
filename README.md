@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Partly cloudy +56°F</code>
+<code>Weather: grenoble Sunny +61°F</code>
 <!-- weather-end -->
 
 <br>
