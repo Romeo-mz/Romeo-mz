@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Partiellement couvert +52°F</code>
+<code>Weather: grenoble Pluie et averses de grêlons/flocons de neige avec orage +51°F</code>
 <!-- weather-end -->
 
 <br>
