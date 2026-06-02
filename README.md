@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: grenoble Ensoleillé +76°F</code>
+<code>Weather: grenoble Averses légères +71°F</code>
 <!-- weather-end -->
 
 <br>
