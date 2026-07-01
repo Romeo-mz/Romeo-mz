@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie éparse à proximité +82°F</code>
+<code>Weather: Grenoble Thunderstorm In Vicinity, Rain With Thunderstorm +79°F</code>
 <!-- weather-end -->
 
 <br>
