@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Neige éparse à proximité +38°F</code>
+<code>Weather: Grenoble Ensoleillé +78°F</code>
 <!-- weather-end -->
 
 <br>
