@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Averses modérées à fortes +55°F</code>
+<code>Weather: Grenoble Partiellement couvert +75°F</code>
 <!-- weather-end -->
 
 <br>
