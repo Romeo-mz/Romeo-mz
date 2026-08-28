@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Couvert +75°F</code>
+<code>Weather: Grenoble Brumeux +58°F</code>
 <!-- weather-end -->
 
 <br>
