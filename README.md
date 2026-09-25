@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Couvert +72°F</code>
+<code>Weather: Grenoble Nuageux +73°F</code>
 <!-- weather-end -->
 
 <br>
