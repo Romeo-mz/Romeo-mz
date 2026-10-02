@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie éparse à proximité +57°F</code>
+<code>Weather: Grenoble Couvert +64°F</code>
 <!-- weather-end -->
 
 <br>
