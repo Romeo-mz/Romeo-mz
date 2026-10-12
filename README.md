@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie légère +52°F</code>
+<code>Weather: Grenoble Temps clair +44°F</code>
 <!-- weather-end -->
 
 <br>
