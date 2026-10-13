@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Temps clair +44°F</code>
+<code>Weather: Grenoble Couvert +63°F</code>
 <!-- weather-end -->
 
 <br>
