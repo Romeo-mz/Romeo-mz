@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Nuageux +59°F</code>
+<code>Weather: Grenoble Nuageux +70°F</code>
 <!-- weather-end -->
 
 <br>
