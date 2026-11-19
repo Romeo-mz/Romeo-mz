@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Pluie éparse à proximité +51°F</code>
+<code>Weather: Grenoble Averses légères +46°F</code>
 <!-- weather-end -->
 
 <br>
