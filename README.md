@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Averses légères +46°F</code>
+<code>Weather: Grenoble Nuageux +42°F</code>
 <!-- weather-end -->
 
 <br>
