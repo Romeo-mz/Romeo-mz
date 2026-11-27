@@ -27,7 +27,7 @@
 
 <!-- weather-start -->
 
-<code>Weather: Grenoble Brouillard +41°F</code>
+<code>Weather: Grenoble Temps clair +36°F</code>
 <!-- weather-end -->
 
 <br>
